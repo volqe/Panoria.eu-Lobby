@@ -1,0 +1,6 @@
+name: PanoriaSpawn
+author: Panoria-Dev-Team
+main: xyz.verocs.main.Main
+version: 2.0
+commands:
+  gadgets:

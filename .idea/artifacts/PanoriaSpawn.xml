@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PanoriaSpawn">
+    <output-path>E:/Plugins</output-path>
+    <root id="archive" name="PanoriaSpawn.jar">
+      <element id="module-output" name="Panoria-Spawn" />
+    </root>
+  </artifact>
+</component>
